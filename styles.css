@@ -9,3 +9,8 @@ h1, h2, h3 {
 ul {
     display: flex;
 }
+
+.card {
+    margin-bottom: 1em;
+    padding: 0;
+}
