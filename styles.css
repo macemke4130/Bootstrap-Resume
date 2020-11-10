@@ -2,15 +2,10 @@ h1, h3 {
     color: white;
 }
 
-h1, h2, h3 {
+h1, h2, h3, footer {
     font-family: monospace, sans-serif;
 }
 
-ul {
-    display: flex;
-}
-
 .card {
-    margin-bottom: 1em;
     padding: 0;
 }
